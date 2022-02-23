@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain positions concerning the fundamentals of Christianity which brings salvation to all that entertain them</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31504</idno>
+            <idno type="STC">Wing C1724</idno>
+            <idno type="STC">ESTC R23921</idno>
+            <idno type="EEBO-CITATION">07922587</idno>
+            <idno type="OCLC">ocm 07922587</idno>
+            <idno type="VID">40478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31504)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40478)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1201:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain positions concerning the fundamentals of Christianity which brings salvation to all that entertain them</title>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Woodnothe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church history --  17th century.</term>
+               <term>Christianity --  Early works to 1800.</term>
+               <term>Salvation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40478:1"/>
+            <pb facs="tcp:40478:1" rendition="simple:additions"/>
+            <p>CERTAIN POSITIONS CONCERNING The Fundamentals OF CHRISTIANITY, Which brings SALVATION to all that entertain them.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Woodnothe</hi> next Door to the Golden Heart in <hi>Leaden Hall</hi> Street, 1657.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:40478:2"/>
+            <head>The Preface.</head>
+            <p>THE end for which theſe Poſitions are thus put forth is this; that the Godly wiſe in the Nation may be pleaſed to take them into their ſerious conſideration, and weigh theſe four Queries.</p>
+            <p n="1">1 Whether therebe any untruths in any of theſe Poſitions, yea or no?</p>
+            <p n="2">2 Whether they be all fundamentall truths in Chriſtianity, yea or no?</p>
+            <p>That is ſuch truths as bring Salvation to the ſoules of thoſe, that receive them ſo, as is here-after explained.</p>
+            <p n="3">3 Whether in Reference to the Salvation of our ſoules any of theſe truths be ſuperfluous, yea or no? that is, needleſſe, or uſeleſſe to build up a ſoul upon the foundation unto Salvation.</p>
+            <p n="4">4 And laſtly all theſe Poſitions being found to be truths and fundamen<g ref="char:EOLhyphen"/>tall truths, and none of them uſeleſſe to build up a ſoul unto Salvation; the Queſtion will be, whether they all as taken joyntly in their coherence be deficient to bring a ſoule unto Salvation, or are not ſufficient to fit it to have communion with God, yea or no?</p>
+            <p>If any that is Godly will without partialitie ſhew his ſenſe of theſe Poſitions, in reference to any or all of theſe Queries, he will do a very ac<g ref="char:EOLhyphen"/>ceptable ſervice, and obliging work of Love to many of Gods people, Chiefly if it be ſhewed wherein they are deficient, either in the truth or in the fundamentalitie of things uſefull or neceſſary unto Salvation, and if he will addreſſe his meaning touching this matter <hi>to Mr. Samuel Hartlieb, dwelling neer Charring Croſſe, over againſt Angel-court in Weſtminſter</hi> it will come to be made uſe of for Gods Glory. But if theſe Poſitions ſhall be found ſuf<g ref="char:EOLhyphen"/>ficient, and no waies deficient in that which is requiſite to fit a penitent and believing ſoule to have communion with God, then the further Que<g ref="char:EOLhyphen"/>ſtion will be.</p>
+            <p n="5">5 Whether it be not incumbent as a duty upon all thoſe, who by theſe truths, or by the chief of them, have communion, or pretend to have com<g ref="char:EOLhyphen"/>munion with God, to have communion alſo one with another, by making open profeſſion according to Gods appointment of their joynt dependance upon him.</p>
+            <p n="6">6 And if any doth conceive, that this is no duty, it is earneſtly deſired
+<pb facs="tcp:40478:2"/>that the reaſons why it is not acknowledged to be a duty, may be alledged from God word.</p>
+            <p n="7">7 But if it cannot be denied to be a duty, and a great and fundamentall duty in the profeſſion of Chriſtianity, then let theſe Queſtions be ſeriouſly and conſcionably laid to heart. What the cauſe is why it is not practiſed? and how that cauſe may be removed?</p>
+            <p>Now to avoid miſtakes concerning the different Notions which may be had concerning a foundation, and concerning Salvation; the ſenſe where<g ref="char:EOLhyphen"/>in they are here taken is to be noted to be this.</p>
+            <p n="1">1 By a foundation, is meant in this place ſome truth, upon which all o<g ref="char:EOLhyphen"/>ther truths are to be raiſed; to build up the ſoules of men to become an habitation of God through the ſpirit: for the Chriſtian Religion is that knowledge and practiſe by which the ſoules of men are fitted to have fel<g ref="char:EOLhyphen"/>lowſhip with God, and become a tabernacle of him through the ſpirit. Now the truth upon which all other truths are to be raiſed, which build up the ſoule to this ſtate, is none other but this: <hi>That Jeſus of Nazareth who is of the ſeed of David according to the fleſh, is the Chriſt, and the onely begotten Son of God, the Saviour of the world, to be believed in according to the Teſtimony of the Apoſtles and Prophets in the Scriptures, and to be followed.</hi>
+            </p>
+            <p>This one truth is explicitly to be believed, and upon it all other truths neceſſary or uſefull to build up the ſoule to Salvation, may be raiſed, and without the explicit aſſent unto the truth thereof, no other truth fitting the ſoule to have communion with God, can ſavingly be received.</p>
+            <p n="2">2 The Notion of Salvation is here taken, as it is expreſſed by Chriſt unto <hi>Paul,</hi> when he ſends him to the Gentiles to preach unto them the Goſpell, <hi>Acts</hi> 26.18. <hi>I ſend thee</hi> (ſaith the Lord) <hi>To open their eyes, and to turne them from darkeneſſe to light, and from the power of Satan unto God, that they may receive forgiveneſſe of ſinnes, and inheritance among them that are ſancrified by Faith, which is in me.</hi> Whence I gather, that the ſoule whoſe underſtanding is opened and freed from naturall Ignorance to ſee the light of life, and is no more a Slave to Satan &amp; ſin by Luſt, but redeemed by the pardon of ſinnes, and ſet at liberty to ſerve the Lord by the free gift of Faith &amp; Holineſſe, and there<g ref="char:EOLhyphen"/>by is fitted to receive the inheritance of Glory: I ſay, that ſuch a ſoule is ſaved, and that Salvation in this life is nothing elſe, but ſuch a qualification of the ſoules of men which is wrought in them by the word, and preaching of Faith and Repentance in the Goſpell, whereof the following truths are the fundamentalls in the ſenſe, which in the cloſe is explained.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40478:3"/>
+            <head>Fundamentall Truths.</head>
+            <p n="1">1 WHoſoever doth believe in God through the Goſpell, and doth repent from dead workes, he ſhall be ſaved.</p>
+            <p n="2">2 No man can be ſaved, except he repent from dead workes, and believe in God through the Goſpell.</p>
+            <div type="part">
+               <head>Of Faith.</head>
+               <p n="1">1 NO man can believe in God through the Goſpell; except by the Goſpell he know him to be the onely true God, and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſus Chriſt whom he hath ſent.</p>
+               <p n="2">2 No man can know God to be the onely true God, except he believe him to be a ſpirit alone before all things from everlaſting; and above all things the abſolute ſupream Being to everlaſting: from whom, and accor<g ref="char:EOLhyphen"/>ding to whoſe will all true being is in every thing; whoſe perfection in all goodneſſe, in all power, in all knowledge, in all truth and faithfullneſſe, in all juſtice and Mercy, in all glory, happineſſe, &amp; Holineſſe, is infinite.</p>
+               <p n="3">3 And no man doth believe theſe things of God truly, who doth not alſo acknowledge him to be in reſpect of his being incommunicable to all creatures, and unchangeably all-ſufficient in himſelfe: and in reſpect of his power the all-preſent Govenor of all his creatures at all times; and the, altogether uncontroulable and irreſiſtable Judge of all the world, which he hath created.</p>
+               <p n="4">4 No man can know God to be the onely true God, and Jeſus Chriſt whom he hath ſent, except he believe him to be the Father of Jeſus Chriſt, and Jeſus Chriſt to be his onely begotten Son, who came forth from the Father, as ſent into this world to manifeſt the Love of God to mankind.</p>
+               <p n="5">5 No man can know the Father, or come to the Father, but by the Son; and whoſoever doth ſeek to come to the Father, or to know him any other<g ref="char:EOLhyphen"/>way, cannot attaine to Salvation.</p>
+               <p n="6">6 No man can know the Father and the Son to Salvation, except the ſpirit of the Father and of the Son be given him &amp; he reveale them to him.</p>
+               <p n="7">7 No man can receive the ſpirit of the Father and of the Son, without the Teſtimony of the word of God received by Faith.</p>
+               <p n="8">8 The Teſtimony of the word of God is no where delivered to us in<g ref="char:EOLhyphen"/>fallibly, or received by us ſavingly to beget Faith; but as it commeth from the truth expreſſed in the Scriptures of the old and new Teſtament.</p>
+               <p n="9">9 The Scriptures of the old and new Teſtament are the oracles of God,
+<pb facs="tcp:40478:3"/>the rule of our Faith and Obedience, by which all ſpirits are to be tryed, whether they be of God or no?</p>
+               <p n="10">10 If any man will know the true meaning of the Scriptures, he muſt do the will of God, whoſe oracles they are; &amp; no man can truly know him, and the meaning of his oracles, except he keep his Commandements.</p>
+               <p n="11">11 No man doth know Jeſus Chriſt according to the Teſtimony of the Scriptures, who doth not believe him to be of the ſeed of Abraham accor<g ref="char:EOLhyphen"/>ding to the fleſh, made of a woman, and made like unto us in all things, ſin excepted; and who doth not alſo believe, that he is the true God over all bleſſed for ever Amen, whoſe out-goings being from everlaſting, he is ſtill yeſterday, to day and for ever the ſame.</p>
+               <p n="12">12 No man can know Jeſus Chriſt according to the Teſtimony of the Scriptures, who doth not believe, that he is the Mediator of the new Cove<g ref="char:EOLhyphen"/>nant, the great Prophet, the High Prieſt of the true Tabernacle, and the King of Saints.</p>
+               <p n="13">13 No man can know Jeſus Chriſt to be the Mediator of the new Cove<g ref="char:EOLhyphen"/>nant, who hath not learned the tenor of the Covenant from the truth ex<g ref="char:EOLhyphen"/>preſſed in Scriptures; and who doth not believe, that according to the Cove<g ref="char:EOLhyphen"/>nant God was in Chriſt reconciling the world unto himſelfe, and not im<g ref="char:EOLhyphen"/>puting unto them their treſpaſſes.</p>
+               <p n="14">14 No man knoweth Jeſus Chriſt to be the great Prophet, who doth not hearken to him to be taught by him of the Father, and to refer the voice of all the Prophets unto him.</p>
+               <p n="15">15 No man knoweth Jeſus Chriſt to be the High-Prieſt of the true Ta<g ref="char:EOLhyphen"/>bernacle, who doth not believe, that God anointed him with the oile of Gladneſs above his fellows, that he ſhould be a Saviour of his People: and who doth not take notice, that he gave himſelf on the croſſe to be an offer<g ref="char:EOLhyphen"/>ing and a ſacrifice to God for a ſweet ſmelling Savour of atonement, and a ranſome for all through Faith in his blood; that juſtification and remiſ<g ref="char:EOLhyphen"/>ſion of ſinnes might be obtained freely through the Grace of Faith in his Name, and not by workes; &amp; that now the man Jeſus is the alone Advocate and Interceſſor appearing in Heaven for his Elect.</p>
+               <p n="16">16 No man knoweth Chriſt to be the King of Saints, who doth not be<g ref="char:EOLhyphen"/>lieve him (the man Jeſus of Nazareth) to be exalted at the right hand of the throne of Majeſty on high, to poſſeſſe all power both in Heaven and Earth, and to be over the Church as the head thereof, diſtinct in his perſon from all his members, and ſet above every name, that is named not onely in this world, but alſo in that which is to come.</p>
+               <p n="17">
+                  <pb facs="tcp:40478:4"/> 17 No man knoweth Jeſus to be ſent of the Father to be the Saviour of the world, who doth not believe, that he (being a man) dyed for the life of the world, and was buried and roſe again from the dead, and aſcended up into Heaven; &amp; from thence ſhall come again to Judge the quick &amp; the dead.</p>
+               <p n="18">18 No man receiveth the Holy Ghoſt, who doth not believe, that he is the ſanctifier of mankind, and the Author of the New-birth, without which no man can enter into the Kingdom of God; and the diſtributer of all the graces of God unto the members of Chriſt in the Church, according to his owne will.</p>
+               <p n="19">19 No man knoweth Chriſt to be the head of the Church, who doth not believe that Chriſt hath a Church in the world, whoſe members are united to him, and to one another by one common ſpirit.</p>
+               <p n="20">20 If any man acknowledge not that there ſhall be a Reſurrection of the dead at the laſt day, and an everlaſting Judgement of the juſt and unjuſt, whereby the Godly ſhall be received into everlaſting joy and glory in Hea<g ref="char:EOLhyphen"/>ven; and the wicked condemned unto everlaſting torments with the Divells and his Angels in Hell, this mans Faith and Hope is in vain,</p>
+            </div>
+            <div type="part">
+               <head>Of Repentance.</head>
+               <p n="1">1 No man can repent from dead workes, except he know, that the workes which he doth by himſelfe as in his owne ſtrength, are dead and deſtitute of the life of God.</p>
+               <p n="2">2 No man doth truely repent, who doth not deny himſelf in all his owne waies and abilities, and turning to God in Chriſt, doth caſt himſelfe onely upon his mercy.</p>
+               <p n="3">3 No man can deny himſelf, and caſt himſelf onely upon Gods mercy, except he acknowledge himſelfe before God a ſinner, and guilty of death and wrath for ſin.</p>
+               <p n="4">4 No man can acknowledge himſelf before God a ſinner, except he know what the Law and will of God is; and that all whatſoever is not conform<g ref="char:EOLhyphen"/>able to the Law &amp; will of God is ſin.</p>
+               <p n="5">5 No man can know what the Law and will of God is, except he be taught it by the truth, as it is revealed in the Holy Scriptures.</p>
+               <p n="6">6 No man can know himſelf to be a ſinner, except he call his conſcience to an account of his intentions and actions, and make a Judgement there<g ref="char:EOLhyphen"/>of according to the Law of God.</p>
+               <p n="7">7 No man doth truely turne to God in Chriſt, who doth not reſigne his will to the will of God, through the love of Chriſt; &amp; whoſoever doth not
+<pb facs="tcp:40478:4"/>love God in Chriſt more then his own life, and more then all things in the world beſides, is not truely turned to him.</p>
+               <p n="8">8 No man doth love God in Chriſt, who doth not love his brother alſo for Chriſts ſake.</p>
+               <p n="9">9 No man is truly turned unto God in Chriſt, who doth not walk out of this evill world after Chriſt in all Gods commandements.</p>
+               <p n="10">10 No man doth walk after Chriſt out of this evill world, except he fol<g ref="char:EOLhyphen"/>low him in godly ſimplicity by his grace, and not by worldly wiſdome.</p>
+               <p n="11">11 No man doth partake of the joy of Gods Salvation in the peace of a good conſcience, who doth not walk in Simplicity by the grace of God.</p>
+               <p n="12">12 No man is truly turned unto God, who hath not from his heart and in his outward converſation denied ungodlineſſe and worldly luſt, to live ſoberly, righteouſly and Godly in this preſent world.</p>
+               <p n="13">13 No man doth deny ungodlineſſe and worldly luſts, who doth allow himſelfe to live in any known ſin whatſoever.</p>
+               <p n="14">14 No man doth live ſoberly, who doth not mortifie the deeds of the Body, to bring it and keep it into ſubjection by the ſpirit.</p>
+               <p n="15">15 No man doth live ſoberly, who takes care to fare deliciouſly every day, and to make proviſion for the fleſh to fullfill the deſires thereof.</p>
+               <p n="16">16 No man doth live Righteouſly, who doth not love his neighbor as himſelf, by doing to him that which he would have done to himſelf in the like caſe.</p>
+               <p n="17">17 No man doth live Godly in this preſent world, who doth not wor<g ref="char:EOLhyphen"/>ſhip God in ſpirit and truth, according to his revealed will,</p>
+               <p n="18">18 No man doth worſhip God according to his revealed will, who doth not call upon him, and give him praiſes and thanks onely in the name of Chriſt Jeſus, and for his ſake.</p>
+               <p n="19">19 No man doth partake of Chriſt in truth, who doth not perſeſere patiently unto the end in well doing,</p>
+               <p n="20">20 No man ſhall receive the Crown of life, who is not faithfull unto death.</p>
+            </div>
+            <div type="part">
+               <head>In what ſenſe theſe truths are ſaid to be fundamentalls.</head>
+               <p>THeſe truths are ſaid to be fundamentalls of Salvation, not as if it were abſolutely neceſſary, to be in any favour, or any acceptance with God here, or admitted unto life and glory hereafter; that every one ſhould expli<g ref="char:EOLhyphen"/>citly know and underſtand the depth of all theſe truths, or be able diſtinctly and knowingly to reflect upon himſelf in reference to all the duties, ſo as to diſcerne the power to practiſe the ſame effectually wrought in his ſoul; I ſay this is not the meaning of denominating theſe truths to be fundamentalls
+<pb facs="tcp:40478:5"/>of Salvation, but they are ſaid to be ſuch implicitly, that is, by a materiall and inward reference to the foundation, which is Chriſt Jeſus, to be believed and followed according to the Scriptures.</p>
+               <p>The meaning then is this, that all theſe truths have a direct relation and connection to that main &amp; only fundamental truth, Chriſt Jeſus, to bring the ſoule that believeth in him &amp; doth follow him, unto that ſtate of life in him, by which it is ſet free from the bondage of corruption, which is in the world through luſt, &amp; made partaker of the divine nature in a true conformity un<g ref="char:EOLhyphen"/>to his Image, that ſo far as any is made able through grace to know theſe truths, &amp; to practiſe theſe duties, he is certainly thereby built up proporti<g ref="char:EOLhyphen"/>onally upon the true foundation, &amp; conſequently made capable to have an entrance into the Kingdom of God, which is righteouſneſſe, peace and joy in the Holy Ghoſt; &amp; ſo far as any is not made able to know &amp; practiſe theſe truths, he is by that diſability at a diſtance from the foundation, &amp; propor<g ref="char:EOLhyphen"/>tionally made incapable of entrance into the kingdom of God aforenamed. As for the things, which are ſo neceſſary to be known explicitly &amp; practiſed ſo, that without a full aſſent thereunto, no man can be in a capacity to be built up in any degree unto Salvation, or freed from the guilt of death etern<g ref="char:EOLhyphen"/>all; it is conceived, that they are herewith expreſſed in the Bulck, and per<g ref="char:EOLhyphen"/>haps cannot be preciſely reckoned up &amp; diſtinguiſhed, becauſe of the dif<g ref="char:EOLhyphen"/>ferent meaſures of conſcientious capacities, which God hath given to the ſeverall underſtandings of men, which not being diſcernible by us, it is not in the power of any man to ſay, what the meaſure of explicit knowledge is which is requiſite for the converſion of all ſoules to God.</p>
+               <p>But if we ſhall ſuppoſe the leaſt capacity that may be in any, then ſo much knowledge as doth make the ſoul truly ſenſible, that there is a God, &amp; that he through love to mankind hath appointed Jeſus Chriſt a Saviour of all the ſoules that flye unto him for refuge in their miſery; if they love God for Chriſt his ſake, &amp; believing in him are willing to obey his commandements, &amp; do call upon his name; I ſay, ſo much knowledge as doth make out theſe truths unto the meaneſt capacities, although it be not received immediatly from the Scriptures, but from a ſecondary Teſtimony, yet being explicitly &amp; diſtinctly believed &amp; obeyed, may ſuffice to bring a ſoul unto that ſtate of Salvation, although it may be ignorant of all the other fundamentals, which I gather from the promiſe of God in <hi>Joel</hi> 2.32. <hi>Whoſoever ſhal cal upon the name of the Lord ſhall be ſaved,</hi> as it is confirmed &amp; applyed <hi>Act.</hi> 2.21, 23. <hi>Rom.</hi> 10.12, 13, 14. So that, if, the Lord and his name as a Saviour be known &amp; called upon, it may ſuffice.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40478:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
